@@ -1,0 +1,491 @@
+[2019-04-27 21:41:16.224] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+[2019-04-27 21:41:16.224] [restartedMain] [DEBUG] com.floatCloud.loveLearn.LoveLearnApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[2019-04-27 21:41:16.225] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+[2019-04-27 21:41:17.116] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol port=8080)
+[2019-04-27 21:41:17.119] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol bindOnInit=false)
+[2019-04-27 21:41:17.120] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint bindOnInit=false)
+[2019-04-27 21:41:17.120] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol maxPostSize=2097152)
+[2019-04-27 21:41:17.121] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint maxPostSize=2097152)
+[2019-04-27 21:41:17.123] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardHost[localhost] StandardEngine[Tomcat]
+[2019-04-27 21:41:17.126] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[default] TomcatEmbeddedContext[]
+[2019-04-27 21:41:17.127] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child TomcatEmbeddedContext[] StandardEngine[Tomcat].StandardHost[localhost]
+[2019-04-27 21:41:17.252] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Server
+[2019-04-27 21:41:17.252] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardServer[-1] Tomcat:type=Server
+[2019-04-27 21:41:17.252] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=UtilityExecutor
+[2019-04-27 21:41:17.253] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister java.util.concurrent.ScheduledThreadPoolExecutor@520166[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0] Tomcat:type=UtilityExecutor
+[2019-04-27 21:41:17.253] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=StringCache
+[2019-04-27 21:41:17.255] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.tomcat.util.buf.StringCache@10660e1 Tomcat:type=StringCache
+[2019-04-27 21:41:17.255] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=MBeanFactory
+[2019-04-27 21:41:17.256] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.mbeans.MBeanFactory@18975c6 Tomcat:type=MBeanFactory
+[2019-04-27 21:41:17.256] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=NamingResources
+[2019-04-27 21:41:17.256] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.deploy.NamingResourcesImpl@11df978 Tomcat:type=NamingResources
+[2019-04-27 21:41:17.256] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Service
+[2019-04-27 21:41:17.257] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardService[Tomcat] Tomcat:type=Service
+[2019-04-27 21:41:17.257] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Engine
+[2019-04-27 21:41:17.259] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat] Tomcat:type=Engine
+[2019-04-27 21:41:17.259] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Mapper
+[2019-04-27 21:41:17.259] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.mapper.MapperListener@12694cc Tomcat:type=Mapper
+[2019-04-27 21:41:17.260] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Connector,port=8080
+[2019-04-27 21:41:17.260] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister Connector[HTTP/1.1-8080] Tomcat:type=Connector,port=8080
+[2019-04-27 21:41:17.260] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol parseBodyMethods=POST)
+[2019-04-27 21:41:17.261] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint parseBodyMethods=POST)
+[2019-04-27 21:41:17.261] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=ProtocolHandler,port=8080
+[2019-04-27 21:41:17.263] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.coyote.http11.Http11NioProtocol@187f4e1 Tomcat:type=ProtocolHandler,port=8080
+[2019-04-27 21:41:17.263] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=GlobalRequestProcessor,name="http-nio-8080"
+[2019-04-27 21:41:17.263] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister BaseModelMbean[null] Tomcat:type=GlobalRequestProcessor,name="http-nio-8080"
+[2019-04-27 21:41:17.263] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister null Tomcat:type=GlobalRequestProcessor,name="http-nio-8080"
+[2019-04-27 21:41:17.264] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=ThreadPool,name="http-nio-8080"
+[2019-04-27 21:41:17.264] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.tomcat.util.net.NioEndpoint@1248bd2 Tomcat:type=ThreadPool,name="http-nio-8080"
+[2019-04-27 21:41:17.264] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=ThreadPool,name="http-nio-8080",subType=SocketProperties
+[2019-04-27 21:41:17.264] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.tomcat.util.net.SocketProperties@13269b7 Tomcat:type=ThreadPool,name="http-nio-8080",subType=SocketProperties
+[2019-04-27 21:41:17.265] [restartedMain] [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[2019-04-27 21:41:17.265] [restartedMain] [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[2019-04-27 21:41:17.265] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Realm,realmPath=/realm0
+[2019-04-27 21:41:17.265] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister SimpleRealm[StandardEngine[Tomcat]] Tomcat:type=Realm,realmPath=/realm0
+[2019-04-27 21:41:17.266] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Host,host=localhost
+[2019-04-27 21:41:17.266] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost] Tomcat:type=Host,host=localhost
+[2019-04-27 21:41:17.266] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=WebModule,name=//localhost/,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.266] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[] Tomcat:j2eeType=WebModule,name=//localhost/,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.267] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Starting ROOT
+[2019-04-27 21:41:17.276] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=WebResourceRoot,host=localhost,context=/
+[2019-04-27 21:41:17.277] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$LoaderHidingResourceRoot@cb08a9 Tomcat:type=WebResourceRoot,host=localhost,context=/
+[2019-04-27 21:41:17.278] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=WebResourceRoot,host=localhost,context=/,name=Cache
+[2019-04-27 21:41:17.278] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.webresources.Cache@39cead Tomcat:type=WebResourceRoot,host=localhost,context=/,name=Cache
+[2019-04-27 21:41:17.283] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Processing standard container startup
+[2019-04-27 21:41:17.284] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Loader,host=localhost,context=/
+[2019-04-27 21:41:17.285] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Loader,host=localhost,context=/
+[2019-04-27 21:41:17.285] [restartedMain] [DEBUG] org.apache.catalina.loader.WebappLoader - Starting this Loader
+[2019-04-27 21:41:17.289] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=TomcatEmbeddedWebappClassLoader,host=localhost,context=/
+[2019-04-27 21:41:17.290] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister TomcatEmbeddedWebappClassLoader
+  context: ROOT
+  delegate: true
+----------> Parent Classloader:
+org.springframework.boot.devtools.restart.classloader.RestartClassLoader@530213
+ Tomcat:type=TomcatEmbeddedWebappClassLoader,host=localhost,context=/
+[2019-04-27 21:41:17.290] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesRmiTargets=false)
+[2019-04-27 21:41:17.291] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesStopThreads=false)
+[2019-04-27 21:41:17.292] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesStopTimerThreads=false)
+[2019-04-27 21:41:17.293] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesHttpClientKeepAliveThread=true)
+[2019-04-27 21:41:17.293] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesObjectStreamClassCaches=false)
+[2019-04-27 21:41:17.296] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesObjectStreamClassCaches=false)
+[2019-04-27 21:41:17.296] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesThreadLocals=false)
+[2019-04-27 21:41:17.331] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=default,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.332] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[default] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=default,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.333] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,context=/,name=NonLoginAuthenticator
+[2019-04-27 21:41:17.333] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Valve,host=localhost,context=/,name=NonLoginAuthenticator
+[2019-04-27 21:41:17.333] [restartedMain] [DEBUG] o.apache.catalina.authenticator.AuthenticatorBase - No SingleSignOn Valve is present
+[2019-04-27 21:41:17.334] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,context=/,name=StandardContextValve
+[2019-04-27 21:41:17.334] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardContextValve[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Valve,host=localhost,context=/,name=StandardContextValve
+[2019-04-27 21:41:17.335] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=NamingResources,host=localhost,context=/
+[2019-04-27 21:41:17.335] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.deploy.NamingResourcesImpl@10eaf23 Tomcat:type=NamingResources,host=localhost,context=/
+[2019-04-27 21:41:17.337] [restartedMain] [INFO ] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2019-04-27 21:41:17.337] [restartedMain] [INFO ] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1105 ms
+[2019-04-27 21:41:17.404] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[dispatcherServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+[2019-04-27 21:41:17.405] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=dispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.405] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=dispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.406] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[statViewServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+[2019-04-27 21:41:17.406] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=statViewServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.406] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[statViewServlet] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=statViewServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.407] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[messageDispatcherServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+[2019-04-27 21:41:17.407] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=messageDispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.410] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[messageDispatcherServlet] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=messageDispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.410] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Configuring application event listeners
+[2019-04-27 21:41:17.411] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Configuring event listener class 'org.apache.tomcat.websocket.server.WsContextListener'
+[2019-04-27 21:41:17.411] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Sending application start events
+[2019-04-27 21:41:17.411] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Manager,host=localhost,context=/
+[2019-04-27 21:41:17.412] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardManager[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Manager,host=localhost,context=/
+[2019-04-27 21:41:17.412] [restartedMain] [DEBUG] org.apache.catalina.session.StandardManager - Start: Loading persisted sessions
+[2019-04-27 21:41:17.412] [restartedMain] [DEBUG] org.apache.catalina.session.StandardManager - Loading persisted sessions from [C:\Users\15939\AppData\Local\Temp\BC33F28CA82565EA6A16FFED3C595A75A49E6958\servlet-sessions\SESSIONS.ser]
+[2019-04-27 21:41:17.413] [restartedMain] [DEBUG] org.apache.catalina.session.StandardManager - No persisted data file found
+[2019-04-27 21:41:17.413] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Starting filters
+[2019-04-27 21:41:17.413] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'requestContextFilter'
+[2019-04-27 21:41:17.413] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=requestContextFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.414] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=requestContextFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedRequestContextFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=requestContextFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.414] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'Tomcat WebSocket (JSR356) Filter'
+[2019-04-27 21:41:17.414] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=Tomcat WebSocket (JSR356) Filter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.415] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=Tomcat WebSocket (JSR356) Filter, filterClass=org.apache.tomcat.websocket.server.WsFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=Tomcat WebSocket (JSR356) Filter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.415] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'hiddenHttpMethodFilter'
+[2019-04-27 21:41:17.415] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=hiddenHttpMethodFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.415] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=hiddenHttpMethodFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedHiddenHttpMethodFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=hiddenHttpMethodFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.416] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'characterEncodingFilter'
+[2019-04-27 21:41:17.416] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=characterEncodingFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.416] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=characterEncodingFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedCharacterEncodingFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=characterEncodingFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.417] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'formContentFilter'
+[2019-04-27 21:41:17.417] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=formContentFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.417] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=formContentFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedFormContentFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=formContentFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.417] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'webStatFilter'
+[2019-04-27 21:41:17.418] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=webStatFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.418] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=webStatFilter, filterClass=com.alibaba.druid.support.http.WebStatFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=webStatFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:41:17.419] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Starting completed
+[2019-04-27 21:41:17.419] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,name=ErrorReportValve
+[2019-04-27 21:41:17.419] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ErrorReportValve[StandardEngine[Tomcat].StandardHost[localhost]] Tomcat:type=Valve,host=localhost,name=ErrorReportValve
+[2019-04-27 21:41:17.419] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,name=StandardHostValve
+[2019-04-27 21:41:17.420] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardHostValve[StandardEngine[Tomcat].StandardHost[localhost]] Tomcat:type=Valve,host=localhost,name=StandardHostValve
+[2019-04-27 21:41:17.420] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,name=StandardEngineValve
+[2019-04-27 21:41:17.420] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngineValve[StandardEngine[Tomcat]] Tomcat:type=Valve,name=StandardEngineValve
+[2019-04-27 21:41:17.421] [restartedMain] [DEBUG] org.apache.catalina.mapper.Mapper - Registered host [localhost]
+[2019-04-27 21:41:17.421] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [default] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:41:17.421] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [dispatcherServlet] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:41:17.422] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [statViewServlet] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:41:17.422] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [messageDispatcherServlet] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:41:17.423] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:41:17.423] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register host [localhost] at domain [null] for service [StandardService[Tomcat]]
+[2019-04-27 21:41:17.454] [restartedMain] [INFO ] c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+[2019-04-27 21:41:17.565] [restartedMain] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited
+[2019-04-27 21:41:17.659] [restartedMain] [DEBUG] o.h.v.i.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[2019-04-27 21:41:17.660] [restartedMain] [DEBUG] o.h.v.m.ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+[2019-04-27 21:41:17.662] [restartedMain] [DEBUG] o.h.v.i.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[2019-04-27 21:41:17.662] [restartedMain] [DEBUG] o.h.validator.internal.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[2019-04-27 21:41:17.663] [restartedMain] [DEBUG] o.h.validator.internal.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[2019-04-27 21:41:17.663] [restartedMain] [DEBUG] o.h.validator.internal.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[2019-04-27 21:41:17.663] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[2019-04-27 21:41:17.663] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+[2019-04-27 21:41:17.664] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+[2019-04-27 21:41:17.664] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[2019-04-27 21:41:17.664] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+[2019-04-27 21:41:17.674] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+[2019-04-27 21:41:17.674] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+[2019-04-27 21:41:17.674] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+[2019-04-27 21:41:17.675] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+[2019-04-27 21:41:17.675] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+[2019-04-27 21:41:17.832] [restartedMain] [WARN ] org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+[2019-04-27 21:41:17.944] [restartedMain] [DEBUG] i.l.core.resource.DefaultEventLoopGroupProvider - Creating executor io.netty.util.concurrent.DefaultEventExecutorGroup
+[2019-04-27 21:41:17.945] [restartedMain] [DEBUG] io.lettuce.core.resource.DefaultClientResources - LatencyUtils/HdrUtils are not available, metrics are disabled
+[2019-04-27 21:41:18.002] [restartedMain] [DEBUG] reactor.core.publisher.Hooks - Enabling stacktrace debugging via onOperatorDebug
+[2019-04-27 21:41:18.184] [http-nio-8080-Acceptor-0] [DEBUG] org.apache.tomcat.util.threads.LimitLatch - Counting up[http-nio-8080-Acceptor-0] latch=0
+[2019-04-27 21:41:18.187] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 2.06 seconds (JVM running for 114.063)
+[2019-04-27 21:42:11.114] [Thread-40] [DEBUG] io.lettuce.core.RedisClient - Initiate shutdown (100, 100, MILLISECONDS)
+[2019-04-27 21:42:11.117] [Thread-40] [DEBUG] io.lettuce.core.resource.DefaultClientResources - Initiate shutdown (0, 2, SECONDS)
+[2019-04-27 21:42:11.117] [Thread-40] [DEBUG] i.l.core.resource.DefaultEventLoopGroupProvider - Initiate shutdown (0, 2, SECONDS)
+[2019-04-27 21:42:11.128] [Thread-40] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+[2019-04-27 21:42:11.638] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+[2019-04-27 21:42:11.639] [restartedMain] [DEBUG] com.floatCloud.loveLearn.LoveLearnApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[2019-04-27 21:42:11.639] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+[2019-04-27 21:42:12.479] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol port=8080)
+[2019-04-27 21:42:12.481] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol bindOnInit=false)
+[2019-04-27 21:42:12.482] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint bindOnInit=false)
+[2019-04-27 21:42:12.482] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol maxPostSize=2097152)
+[2019-04-27 21:42:12.482] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint maxPostSize=2097152)
+[2019-04-27 21:42:12.484] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardHost[localhost] StandardEngine[Tomcat]
+[2019-04-27 21:42:12.489] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[default] TomcatEmbeddedContext[]
+[2019-04-27 21:42:12.490] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child TomcatEmbeddedContext[] StandardEngine[Tomcat].StandardHost[localhost]
+[2019-04-27 21:42:12.623] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Server
+[2019-04-27 21:42:12.623] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardServer[-1] Tomcat:type=Server
+[2019-04-27 21:42:12.624] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=UtilityExecutor
+[2019-04-27 21:42:12.625] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister java.util.concurrent.ScheduledThreadPoolExecutor@b7b472[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0] Tomcat:type=UtilityExecutor
+[2019-04-27 21:42:12.625] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=StringCache
+[2019-04-27 21:42:12.634] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.tomcat.util.buf.StringCache@ca8c6c Tomcat:type=StringCache
+[2019-04-27 21:42:12.634] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=MBeanFactory
+[2019-04-27 21:42:12.635] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.mbeans.MBeanFactory@1d26531 Tomcat:type=MBeanFactory
+[2019-04-27 21:42:12.635] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=NamingResources
+[2019-04-27 21:42:12.636] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.deploy.NamingResourcesImpl@19e645f Tomcat:type=NamingResources
+[2019-04-27 21:42:12.636] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Service
+[2019-04-27 21:42:12.637] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardService[Tomcat] Tomcat:type=Service
+[2019-04-27 21:42:12.637] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Engine
+[2019-04-27 21:42:12.642] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat] Tomcat:type=Engine
+[2019-04-27 21:42:12.642] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Mapper
+[2019-04-27 21:42:12.642] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.mapper.MapperListener@cb59fa Tomcat:type=Mapper
+[2019-04-27 21:42:12.643] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Connector,port=8080
+[2019-04-27 21:42:12.643] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister Connector[HTTP/1.1-8080] Tomcat:type=Connector,port=8080
+[2019-04-27 21:42:12.644] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol parseBodyMethods=POST)
+[2019-04-27 21:42:12.644] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint parseBodyMethods=POST)
+[2019-04-27 21:42:12.645] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=ProtocolHandler,port=8080
+[2019-04-27 21:42:12.648] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.coyote.http11.Http11NioProtocol@8019a3 Tomcat:type=ProtocolHandler,port=8080
+[2019-04-27 21:42:12.648] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=GlobalRequestProcessor,name="http-nio-8080"
+[2019-04-27 21:42:12.649] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister BaseModelMbean[null] Tomcat:type=GlobalRequestProcessor,name="http-nio-8080"
+[2019-04-27 21:42:12.649] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister null Tomcat:type=GlobalRequestProcessor,name="http-nio-8080"
+[2019-04-27 21:42:12.649] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=ThreadPool,name="http-nio-8080"
+[2019-04-27 21:42:12.650] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.tomcat.util.net.NioEndpoint@d116ef Tomcat:type=ThreadPool,name="http-nio-8080"
+[2019-04-27 21:42:12.650] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=ThreadPool,name="http-nio-8080",subType=SocketProperties
+[2019-04-27 21:42:12.650] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.tomcat.util.net.SocketProperties@f13af6 Tomcat:type=ThreadPool,name="http-nio-8080",subType=SocketProperties
+[2019-04-27 21:42:12.651] [restartedMain] [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[2019-04-27 21:42:12.651] [restartedMain] [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[2019-04-27 21:42:12.651] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Realm,realmPath=/realm0
+[2019-04-27 21:42:12.652] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister SimpleRealm[StandardEngine[Tomcat]] Tomcat:type=Realm,realmPath=/realm0
+[2019-04-27 21:42:12.652] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Host,host=localhost
+[2019-04-27 21:42:12.653] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost] Tomcat:type=Host,host=localhost
+[2019-04-27 21:42:12.653] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=WebModule,name=//localhost/,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.654] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[] Tomcat:j2eeType=WebModule,name=//localhost/,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.654] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Starting ROOT
+[2019-04-27 21:42:12.663] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=WebResourceRoot,host=localhost,context=/
+[2019-04-27 21:42:12.664] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$LoaderHidingResourceRoot@81a8db Tomcat:type=WebResourceRoot,host=localhost,context=/
+[2019-04-27 21:42:12.666] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=WebResourceRoot,host=localhost,context=/,name=Cache
+[2019-04-27 21:42:12.668] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.webresources.Cache@f5a9 Tomcat:type=WebResourceRoot,host=localhost,context=/,name=Cache
+[2019-04-27 21:42:12.679] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Processing standard container startup
+[2019-04-27 21:42:12.679] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Loader,host=localhost,context=/
+[2019-04-27 21:42:12.680] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Loader,host=localhost,context=/
+[2019-04-27 21:42:12.680] [restartedMain] [DEBUG] org.apache.catalina.loader.WebappLoader - Starting this Loader
+[2019-04-27 21:42:12.687] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=TomcatEmbeddedWebappClassLoader,host=localhost,context=/
+[2019-04-27 21:42:12.688] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister TomcatEmbeddedWebappClassLoader
+  context: ROOT
+  delegate: true
+----------> Parent Classloader:
+org.springframework.boot.devtools.restart.classloader.RestartClassLoader@12a558e
+ Tomcat:type=TomcatEmbeddedWebappClassLoader,host=localhost,context=/
+[2019-04-27 21:42:12.688] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesRmiTargets=false)
+[2019-04-27 21:42:12.688] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesStopThreads=false)
+[2019-04-27 21:42:12.688] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesStopTimerThreads=false)
+[2019-04-27 21:42:12.689] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesHttpClientKeepAliveThread=true)
+[2019-04-27 21:42:12.689] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesObjectStreamClassCaches=false)
+[2019-04-27 21:42:12.693] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesObjectStreamClassCaches=false)
+[2019-04-27 21:42:12.693] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesThreadLocals=false)
+[2019-04-27 21:42:12.759] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=default,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.760] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[default] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=default,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.761] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,context=/,name=NonLoginAuthenticator
+[2019-04-27 21:42:12.762] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Valve,host=localhost,context=/,name=NonLoginAuthenticator
+[2019-04-27 21:42:12.762] [restartedMain] [DEBUG] o.apache.catalina.authenticator.AuthenticatorBase - No SingleSignOn Valve is present
+[2019-04-27 21:42:12.768] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,context=/,name=StandardContextValve
+[2019-04-27 21:42:12.769] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardContextValve[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Valve,host=localhost,context=/,name=StandardContextValve
+[2019-04-27 21:42:12.769] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=NamingResources,host=localhost,context=/
+[2019-04-27 21:42:12.770] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.deploy.NamingResourcesImpl@88f568 Tomcat:type=NamingResources,host=localhost,context=/
+[2019-04-27 21:42:12.771] [restartedMain] [INFO ] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2019-04-27 21:42:12.771] [restartedMain] [INFO ] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1119 ms
+[2019-04-27 21:42:12.905] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[dispatcherServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+[2019-04-27 21:42:12.906] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=dispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.906] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=dispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.907] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[statViewServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+[2019-04-27 21:42:12.908] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=statViewServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.908] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[statViewServlet] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=statViewServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.909] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[messageDispatcherServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+[2019-04-27 21:42:12.910] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=messageDispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.911] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[messageDispatcherServlet] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=messageDispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.912] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Configuring application event listeners
+[2019-04-27 21:42:12.913] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Configuring event listener class 'org.apache.tomcat.websocket.server.WsContextListener'
+[2019-04-27 21:42:12.913] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Sending application start events
+[2019-04-27 21:42:12.914] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Manager,host=localhost,context=/
+[2019-04-27 21:42:12.914] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardManager[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Manager,host=localhost,context=/
+[2019-04-27 21:42:12.918] [restartedMain] [DEBUG] org.apache.catalina.session.StandardManager - Start: Loading persisted sessions
+[2019-04-27 21:42:12.918] [restartedMain] [DEBUG] org.apache.catalina.session.StandardManager - Loading persisted sessions from [C:\Users\15939\AppData\Local\Temp\BC33F28CA82565EA6A16FFED3C595A75A49E6958\servlet-sessions\SESSIONS.ser]
+[2019-04-27 21:42:12.919] [restartedMain] [DEBUG] org.apache.catalina.session.StandardManager - No persisted data file found
+[2019-04-27 21:42:12.919] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Starting filters
+[2019-04-27 21:42:12.919] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'requestContextFilter'
+[2019-04-27 21:42:12.920] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=requestContextFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.920] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=requestContextFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedRequestContextFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=requestContextFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.921] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'Tomcat WebSocket (JSR356) Filter'
+[2019-04-27 21:42:12.921] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=Tomcat WebSocket (JSR356) Filter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.923] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=Tomcat WebSocket (JSR356) Filter, filterClass=org.apache.tomcat.websocket.server.WsFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=Tomcat WebSocket (JSR356) Filter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.924] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'hiddenHttpMethodFilter'
+[2019-04-27 21:42:12.925] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=hiddenHttpMethodFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.925] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=hiddenHttpMethodFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedHiddenHttpMethodFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=hiddenHttpMethodFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.925] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'characterEncodingFilter'
+[2019-04-27 21:42:12.926] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=characterEncodingFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.926] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=characterEncodingFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedCharacterEncodingFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=characterEncodingFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.927] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'formContentFilter'
+[2019-04-27 21:42:12.927] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=formContentFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.927] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=formContentFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedFormContentFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=formContentFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.928] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'webStatFilter'
+[2019-04-27 21:42:12.928] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=webStatFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.929] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=webStatFilter, filterClass=com.alibaba.druid.support.http.WebStatFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=webStatFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:12.929] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Starting completed
+[2019-04-27 21:42:12.930] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,name=ErrorReportValve
+[2019-04-27 21:42:12.931] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ErrorReportValve[StandardEngine[Tomcat].StandardHost[localhost]] Tomcat:type=Valve,host=localhost,name=ErrorReportValve
+[2019-04-27 21:42:12.932] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,name=StandardHostValve
+[2019-04-27 21:42:12.932] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardHostValve[StandardEngine[Tomcat].StandardHost[localhost]] Tomcat:type=Valve,host=localhost,name=StandardHostValve
+[2019-04-27 21:42:12.933] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,name=StandardEngineValve
+[2019-04-27 21:42:12.933] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngineValve[StandardEngine[Tomcat]] Tomcat:type=Valve,name=StandardEngineValve
+[2019-04-27 21:42:12.934] [restartedMain] [DEBUG] org.apache.catalina.mapper.Mapper - Registered host [localhost]
+[2019-04-27 21:42:12.934] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [default] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:12.935] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [dispatcherServlet] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:12.935] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [statViewServlet] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:12.935] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [messageDispatcherServlet] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:12.935] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:12.936] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register host [localhost] at domain [null] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:13.031] [restartedMain] [INFO ] c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+[2019-04-27 21:42:13.145] [restartedMain] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-3} inited
+[2019-04-27 21:42:13.191] [restartedMain] [DEBUG] o.h.v.i.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[2019-04-27 21:42:13.192] [restartedMain] [DEBUG] o.h.v.m.ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+[2019-04-27 21:42:13.193] [restartedMain] [DEBUG] o.h.v.i.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[2019-04-27 21:42:13.194] [restartedMain] [DEBUG] o.h.validator.internal.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[2019-04-27 21:42:13.194] [restartedMain] [DEBUG] o.h.validator.internal.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[2019-04-27 21:42:13.194] [restartedMain] [DEBUG] o.h.validator.internal.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[2019-04-27 21:42:13.194] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[2019-04-27 21:42:13.194] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+[2019-04-27 21:42:13.195] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+[2019-04-27 21:42:13.197] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[2019-04-27 21:42:13.197] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+[2019-04-27 21:42:13.203] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+[2019-04-27 21:42:13.204] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+[2019-04-27 21:42:13.204] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+[2019-04-27 21:42:13.204] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+[2019-04-27 21:42:13.204] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+[2019-04-27 21:42:13.347] [restartedMain] [WARN ] org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+[2019-04-27 21:42:13.426] [restartedMain] [DEBUG] i.l.core.resource.DefaultEventLoopGroupProvider - Creating executor io.netty.util.concurrent.DefaultEventExecutorGroup
+[2019-04-27 21:42:13.426] [restartedMain] [DEBUG] io.lettuce.core.resource.DefaultClientResources - LatencyUtils/HdrUtils are not available, metrics are disabled
+[2019-04-27 21:42:13.483] [restartedMain] [DEBUG] reactor.core.publisher.Hooks - Enabling stacktrace debugging via onOperatorDebug
+[2019-04-27 21:42:13.630] [http-nio-8080-Acceptor-0] [DEBUG] org.apache.tomcat.util.threads.LimitLatch - Counting up[http-nio-8080-Acceptor-0] latch=0
+[2019-04-27 21:42:13.633] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 2.237 seconds (JVM running for 169.509)
+[2019-04-27 21:42:17.111] [Thread-46] [DEBUG] io.lettuce.core.RedisClient - Initiate shutdown (100, 100, MILLISECONDS)
+[2019-04-27 21:42:17.113] [Thread-46] [DEBUG] io.lettuce.core.resource.DefaultClientResources - Initiate shutdown (0, 2, SECONDS)
+[2019-04-27 21:42:17.113] [Thread-46] [DEBUG] i.l.core.resource.DefaultEventLoopGroupProvider - Initiate shutdown (0, 2, SECONDS)
+[2019-04-27 21:42:17.125] [Thread-46] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-3} closed
+[2019-04-27 21:42:17.462] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+[2019-04-27 21:42:17.463] [restartedMain] [DEBUG] com.floatCloud.loveLearn.LoveLearnApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[2019-04-27 21:42:17.463] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+[2019-04-27 21:42:18.180] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol port=8080)
+[2019-04-27 21:42:18.181] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol bindOnInit=false)
+[2019-04-27 21:42:18.181] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint bindOnInit=false)
+[2019-04-27 21:42:18.181] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol maxPostSize=2097152)
+[2019-04-27 21:42:18.182] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint maxPostSize=2097152)
+[2019-04-27 21:42:18.182] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardHost[localhost] StandardEngine[Tomcat]
+[2019-04-27 21:42:18.185] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[default] TomcatEmbeddedContext[]
+[2019-04-27 21:42:18.186] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child TomcatEmbeddedContext[] StandardEngine[Tomcat].StandardHost[localhost]
+[2019-04-27 21:42:18.303] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Server
+[2019-04-27 21:42:18.305] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardServer[-1] Tomcat:type=Server
+[2019-04-27 21:42:18.305] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=UtilityExecutor
+[2019-04-27 21:42:18.305] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister java.util.concurrent.ScheduledThreadPoolExecutor@1a4a856[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0] Tomcat:type=UtilityExecutor
+[2019-04-27 21:42:18.306] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=StringCache
+[2019-04-27 21:42:18.308] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.tomcat.util.buf.StringCache@1e7488a Tomcat:type=StringCache
+[2019-04-27 21:42:18.308] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=MBeanFactory
+[2019-04-27 21:42:18.309] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.mbeans.MBeanFactory@633612 Tomcat:type=MBeanFactory
+[2019-04-27 21:42:18.309] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=NamingResources
+[2019-04-27 21:42:18.309] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.deploy.NamingResourcesImpl@6a1767 Tomcat:type=NamingResources
+[2019-04-27 21:42:18.309] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Service
+[2019-04-27 21:42:18.310] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardService[Tomcat] Tomcat:type=Service
+[2019-04-27 21:42:18.310] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Engine
+[2019-04-27 21:42:18.312] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat] Tomcat:type=Engine
+[2019-04-27 21:42:18.312] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Mapper
+[2019-04-27 21:42:18.312] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.mapper.MapperListener@7ee624 Tomcat:type=Mapper
+[2019-04-27 21:42:18.313] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Connector,port=8080
+[2019-04-27 21:42:18.313] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister Connector[HTTP/1.1-8080] Tomcat:type=Connector,port=8080
+[2019-04-27 21:42:18.313] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol parseBodyMethods=POST)
+[2019-04-27 21:42:18.314] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint parseBodyMethods=POST)
+[2019-04-27 21:42:18.314] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=ProtocolHandler,port=8080
+[2019-04-27 21:42:18.316] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.coyote.http11.Http11NioProtocol@1fe4cf9 Tomcat:type=ProtocolHandler,port=8080
+[2019-04-27 21:42:18.316] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=GlobalRequestProcessor,name="http-nio-8080"
+[2019-04-27 21:42:18.316] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister BaseModelMbean[null] Tomcat:type=GlobalRequestProcessor,name="http-nio-8080"
+[2019-04-27 21:42:18.316] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister null Tomcat:type=GlobalRequestProcessor,name="http-nio-8080"
+[2019-04-27 21:42:18.317] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=ThreadPool,name="http-nio-8080"
+[2019-04-27 21:42:18.317] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.tomcat.util.net.NioEndpoint@b22c72 Tomcat:type=ThreadPool,name="http-nio-8080"
+[2019-04-27 21:42:18.317] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=ThreadPool,name="http-nio-8080",subType=SocketProperties
+[2019-04-27 21:42:18.318] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.tomcat.util.net.SocketProperties@4bd4ec Tomcat:type=ThreadPool,name="http-nio-8080",subType=SocketProperties
+[2019-04-27 21:42:18.318] [restartedMain] [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[2019-04-27 21:42:18.318] [restartedMain] [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[2019-04-27 21:42:18.318] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Realm,realmPath=/realm0
+[2019-04-27 21:42:18.319] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister SimpleRealm[StandardEngine[Tomcat]] Tomcat:type=Realm,realmPath=/realm0
+[2019-04-27 21:42:18.319] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Host,host=localhost
+[2019-04-27 21:42:18.319] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost] Tomcat:type=Host,host=localhost
+[2019-04-27 21:42:18.319] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=WebModule,name=//localhost/,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.320] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[] Tomcat:j2eeType=WebModule,name=//localhost/,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.320] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Starting ROOT
+[2019-04-27 21:42:18.329] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=WebResourceRoot,host=localhost,context=/
+[2019-04-27 21:42:18.330] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory$LoaderHidingResourceRoot@1795ec7 Tomcat:type=WebResourceRoot,host=localhost,context=/
+[2019-04-27 21:42:18.330] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=WebResourceRoot,host=localhost,context=/,name=Cache
+[2019-04-27 21:42:18.330] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.webresources.Cache@bb4fd5 Tomcat:type=WebResourceRoot,host=localhost,context=/,name=Cache
+[2019-04-27 21:42:18.333] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Processing standard container startup
+[2019-04-27 21:42:18.334] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Loader,host=localhost,context=/
+[2019-04-27 21:42:18.334] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Loader,host=localhost,context=/
+[2019-04-27 21:42:18.334] [restartedMain] [DEBUG] org.apache.catalina.loader.WebappLoader - Starting this Loader
+[2019-04-27 21:42:18.336] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=TomcatEmbeddedWebappClassLoader,host=localhost,context=/
+[2019-04-27 21:42:18.336] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister TomcatEmbeddedWebappClassLoader
+  context: ROOT
+  delegate: true
+----------> Parent Classloader:
+org.springframework.boot.devtools.restart.classloader.RestartClassLoader@150ff8c
+ Tomcat:type=TomcatEmbeddedWebappClassLoader,host=localhost,context=/
+[2019-04-27 21:42:18.337] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesRmiTargets=false)
+[2019-04-27 21:42:18.337] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesStopThreads=false)
+[2019-04-27 21:42:18.338] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesStopTimerThreads=false)
+[2019-04-27 21:42:18.338] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesHttpClientKeepAliveThread=true)
+[2019-04-27 21:42:18.338] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesObjectStreamClassCaches=false)
+[2019-04-27 21:42:18.340] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesObjectStreamClassCaches=false)
+[2019-04-27 21:42:18.341] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader clearReferencesThreadLocals=false)
+[2019-04-27 21:42:18.372] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=default,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.373] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[default] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=default,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.373] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,context=/,name=NonLoginAuthenticator
+[2019-04-27 21:42:18.374] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Valve,host=localhost,context=/,name=NonLoginAuthenticator
+[2019-04-27 21:42:18.374] [restartedMain] [DEBUG] o.apache.catalina.authenticator.AuthenticatorBase - No SingleSignOn Valve is present
+[2019-04-27 21:42:18.374] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,context=/,name=StandardContextValve
+[2019-04-27 21:42:18.375] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardContextValve[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Valve,host=localhost,context=/,name=StandardContextValve
+[2019-04-27 21:42:18.375] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=NamingResources,host=localhost,context=/
+[2019-04-27 21:42:18.375] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister org.apache.catalina.deploy.NamingResourcesImpl@1cd250c Tomcat:type=NamingResources,host=localhost,context=/
+[2019-04-27 21:42:18.377] [restartedMain] [INFO ] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2019-04-27 21:42:18.377] [restartedMain] [INFO ] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 910 ms
+[2019-04-27 21:42:18.404] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[dispatcherServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+[2019-04-27 21:42:18.405] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=dispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.405] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=dispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.406] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[statViewServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+[2019-04-27 21:42:18.406] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=statViewServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.407] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[statViewServlet] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=statViewServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.407] [restartedMain] [DEBUG] org.apache.catalina.core.ContainerBase - Add child StandardWrapper[messageDispatcherServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+[2019-04-27 21:42:18.407] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=messageDispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.408] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[messageDispatcherServlet] Tomcat:j2eeType=Servlet,WebModule=//localhost/,name=messageDispatcherServlet,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.409] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Configuring application event listeners
+[2019-04-27 21:42:18.409] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Configuring event listener class 'org.apache.tomcat.websocket.server.WsContextListener'
+[2019-04-27 21:42:18.409] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Sending application start events
+[2019-04-27 21:42:18.410] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Manager,host=localhost,context=/
+[2019-04-27 21:42:18.410] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardManager[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] Tomcat:type=Manager,host=localhost,context=/
+[2019-04-27 21:42:18.410] [restartedMain] [DEBUG] org.apache.catalina.session.StandardManager - Start: Loading persisted sessions
+[2019-04-27 21:42:18.410] [restartedMain] [DEBUG] org.apache.catalina.session.StandardManager - Loading persisted sessions from [C:\Users\15939\AppData\Local\Temp\BC33F28CA82565EA6A16FFED3C595A75A49E6958\servlet-sessions\SESSIONS.ser]
+[2019-04-27 21:42:18.411] [restartedMain] [DEBUG] org.apache.catalina.session.StandardManager - No persisted data file found
+[2019-04-27 21:42:18.411] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Starting filters
+[2019-04-27 21:42:18.411] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'requestContextFilter'
+[2019-04-27 21:42:18.412] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=requestContextFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.412] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=requestContextFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedRequestContextFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=requestContextFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.412] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'Tomcat WebSocket (JSR356) Filter'
+[2019-04-27 21:42:18.412] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=Tomcat WebSocket (JSR356) Filter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.413] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=Tomcat WebSocket (JSR356) Filter, filterClass=org.apache.tomcat.websocket.server.WsFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=Tomcat WebSocket (JSR356) Filter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.413] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'hiddenHttpMethodFilter'
+[2019-04-27 21:42:18.413] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=hiddenHttpMethodFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.413] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=hiddenHttpMethodFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedHiddenHttpMethodFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=hiddenHttpMethodFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.414] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'characterEncodingFilter'
+[2019-04-27 21:42:18.414] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=characterEncodingFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.414] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=characterEncodingFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedCharacterEncodingFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=characterEncodingFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.415] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'formContentFilter'
+[2019-04-27 21:42:18.415] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=formContentFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.415] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=formContentFilter, filterClass=org.springframework.boot.web.servlet.filter.OrderedFormContentFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=formContentFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.415] [restartedMain] [DEBUG] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] -  Starting filter 'webStatFilter'
+[2019-04-27 21:42:18.416] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:j2eeType=Filter,WebModule=//localhost/,name=webStatFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.416] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ApplicationFilterConfig[name=webStatFilter, filterClass=com.alibaba.druid.support.http.WebStatFilter] Tomcat:j2eeType=Filter,WebModule=//localhost/,name=webStatFilter,J2EEApplication=none,J2EEServer=none
+[2019-04-27 21:42:18.416] [restartedMain] [DEBUG] org.apache.catalina.core.StandardContext - Starting completed
+[2019-04-27 21:42:18.417] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,name=ErrorReportValve
+[2019-04-27 21:42:18.417] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister ErrorReportValve[StandardEngine[Tomcat].StandardHost[localhost]] Tomcat:type=Valve,host=localhost,name=ErrorReportValve
+[2019-04-27 21:42:18.418] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,host=localhost,name=StandardHostValve
+[2019-04-27 21:42:18.418] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardHostValve[StandardEngine[Tomcat].StandardHost[localhost]] Tomcat:type=Valve,host=localhost,name=StandardHostValve
+[2019-04-27 21:42:18.418] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.Registry - Managed= Tomcat:type=Valve,name=StandardEngineValve
+[2019-04-27 21:42:18.419] [restartedMain] [DEBUG] org.apache.tomcat.util.modeler.BaseModelMBean - preRegister StandardEngineValve[StandardEngine[Tomcat]] Tomcat:type=Valve,name=StandardEngineValve
+[2019-04-27 21:42:18.419] [restartedMain] [DEBUG] org.apache.catalina.mapper.Mapper - Registered host [localhost]
+[2019-04-27 21:42:18.419] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [default] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:18.419] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [dispatcherServlet] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:18.420] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [statViewServlet] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:18.420] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Wrapper [messageDispatcherServlet] in Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:18.420] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register Context [] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:18.421] [restartedMain] [DEBUG] org.apache.catalina.mapper.MapperListener - Register host [localhost] at domain [null] for service [StandardService[Tomcat]]
+[2019-04-27 21:42:18.468] [restartedMain] [INFO ] c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+[2019-04-27 21:42:18.584] [restartedMain] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-4} inited
+[2019-04-27 21:42:18.634] [restartedMain] [DEBUG] o.h.v.i.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[2019-04-27 21:42:18.635] [restartedMain] [DEBUG] o.h.v.m.ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+[2019-04-27 21:42:18.637] [restartedMain] [DEBUG] o.h.v.i.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[2019-04-27 21:42:18.637] [restartedMain] [DEBUG] o.h.validator.internal.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[2019-04-27 21:42:18.637] [restartedMain] [DEBUG] o.h.validator.internal.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[2019-04-27 21:42:18.637] [restartedMain] [DEBUG] o.h.validator.internal.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[2019-04-27 21:42:18.638] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[2019-04-27 21:42:18.638] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+[2019-04-27 21:42:18.638] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+[2019-04-27 21:42:18.638] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[2019-04-27 21:42:18.639] [restartedMain] [DEBUG] o.h.v.internal.xml.config.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+[2019-04-27 21:42:18.646] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+[2019-04-27 21:42:18.647] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+[2019-04-27 21:42:18.647] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+[2019-04-27 21:42:18.647] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+[2019-04-27 21:42:18.647] [restartedMain] [DEBUG] o.h.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+[2019-04-27 21:42:18.803] [restartedMain] [WARN ] org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+[2019-04-27 21:42:18.868] [restartedMain] [DEBUG] i.l.core.resource.DefaultEventLoopGroupProvider - Creating executor io.netty.util.concurrent.DefaultEventExecutorGroup
+[2019-04-27 21:42:18.869] [restartedMain] [DEBUG] io.lettuce.core.resource.DefaultClientResources - LatencyUtils/HdrUtils are not available, metrics are disabled
+[2019-04-27 21:42:18.941] [restartedMain] [DEBUG] reactor.core.publisher.Hooks - Enabling stacktrace debugging via onOperatorDebug
+[2019-04-27 21:42:19.059] [http-nio-8080-Acceptor-0] [DEBUG] org.apache.tomcat.util.threads.LimitLatch - Counting up[http-nio-8080-Acceptor-0] latch=0
+[2019-04-27 21:42:19.063] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.678 seconds (JVM running for 174.939)
+[2019-04-27 21:42:27.724] [Thread-52] [DEBUG] io.lettuce.core.RedisClient - Initiate shutdown (100, 100, MILLISECONDS)
+[2019-04-27 21:42:27.727] [Thread-52] [DEBUG] io.lettuce.core.resource.DefaultClientResources - Initiate shutdown (0, 2, SECONDS)
+[2019-04-27 21:42:27.727] [Thread-52] [DEBUG] i.l.core.resource.DefaultEventLoopGroupProvider - Initiate shutdown (0, 2, SECONDS)
+[2019-04-27 21:42:27.737] [Thread-52] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-4} closed
+[2019-04-27 21:42:28.072] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+[2019-04-27 21:42:28.072] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+[2019-04-27 21:42:28.895] [restartedMain] [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[2019-04-27 21:42:28.897] [restartedMain] [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[2019-04-27 21:42:28.945] [restartedMain] [INFO ] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[2019-04-27 21:42:28.945] [restartedMain] [INFO ] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 868 ms
+[2019-04-27 21:42:28.998] [restartedMain] [INFO ] c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+[2019-04-27 21:42:29.132] [restartedMain] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-5} inited
+[2019-04-27 21:42:29.346] [restartedMain] [WARN ] org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+[2019-04-27 21:42:29.617] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.628 seconds (JVM running for 185.494)
+[2019-04-27 21:46:12.680] [Thread-58] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-5} closed
