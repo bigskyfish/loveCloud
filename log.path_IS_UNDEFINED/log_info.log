@@ -1,5 +1,5 @@
-2019-04-27 21:47:10.128 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 21:47:10.128 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 21:47:10.128 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 21:47:10.128 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 21:47:10.739 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 21:47:10.740 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 21:47:10.754 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
@@ -17,12 +17,12 @@
 2019-04-27 21:47:11.600 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
 2019-04-27 21:47:11.834 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 21:47:11.887 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 21:47:11.888 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.847 seconds (JVM running for 467.765)
+2019-04-27 21:47:11.888 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.847 seconds (JVM running for 467.765)
 2019-04-27 21:47:11.890 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 21:49:00.833 [Thread-64] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 21:49:00.838 [Thread-64] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-6} closed
-2019-04-27 21:49:01.192 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 21:49:01.193 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 21:49:01.192 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 21:49:01.193 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 21:49:01.860 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 21:49:01.860 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 21:49:01.875 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 repository interfaces.
@@ -40,12 +40,12 @@
 2019-04-27 21:49:02.862 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
 2019-04-27 21:49:03.093 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 21:49:03.181 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 21:49:03.182 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 2.07 seconds (JVM running for 579.058)
+2019-04-27 21:49:03.182 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 2.07 seconds (JVM running for 579.058)
 2019-04-27 21:49:03.184 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 21:51:55.218 [Thread-82] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 21:51:55.223 [Thread-82] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-7} closed
-2019-04-27 21:51:55.584 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 21:51:55.585 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 21:51:55.584 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 21:51:55.585 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 21:51:56.363 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 21:51:56.365 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 21:51:56.379 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13ms. Found 0 repository interfaces.
@@ -63,12 +63,12 @@
 2019-04-27 21:51:57.323 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
 2019-04-27 21:51:57.660 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 21:51:57.781 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 21:51:57.782 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 2.281 seconds (JVM running for 753.659)
+2019-04-27 21:51:57.782 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 2.281 seconds (JVM running for 753.659)
 2019-04-27 21:51:57.787 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 21:51:59.147 [Thread-88] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 21:51:59.154 [Thread-88] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-8} closed
-2019-04-27 21:51:59.532 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 21:51:59.533 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 21:51:59.532 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 21:51:59.533 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 21:52:00.167 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 21:52:00.167 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 21:52:00.178 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
@@ -86,12 +86,12 @@
 2019-04-27 21:52:00.970 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
 2019-04-27 21:52:01.190 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 21:52:01.245 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 21:52:01.245 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.798 seconds (JVM running for 757.122)
+2019-04-27 21:52:01.245 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.798 seconds (JVM running for 757.122)
 2019-04-27 21:52:01.247 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 21:52:03.705 [Thread-94] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 21:52:03.726 [Thread-94] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-9} closed
-2019-04-27 21:52:04.136 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 21:52:04.137 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 21:52:04.136 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 21:52:04.137 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 21:52:04.847 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 21:52:04.848 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 21:52:04.860 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
@@ -109,12 +109,12 @@
 2019-04-27 21:52:05.706 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
 2019-04-27 21:52:05.885 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 21:52:05.949 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 21:52:05.950 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.964 seconds (JVM running for 761.827)
+2019-04-27 21:52:05.950 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.964 seconds (JVM running for 761.827)
 2019-04-27 21:52:05.954 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 21:52:07.405 [Thread-100] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 21:52:07.414 [Thread-100] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-10} closed
-2019-04-27 21:52:07.790 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 21:52:07.791 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 21:52:07.790 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 21:52:07.791 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 21:52:08.457 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 21:52:08.458 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 21:52:08.470 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
@@ -132,12 +132,12 @@
 2019-04-27 21:52:09.318 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
 2019-04-27 21:52:09.556 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 21:52:09.634 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 21:52:09.635 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.933 seconds (JVM running for 765.512)
+2019-04-27 21:52:09.635 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.933 seconds (JVM running for 765.512)
 2019-04-27 21:52:09.638 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 21:52:11.047 [Thread-106] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 21:52:11.052 [Thread-106] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-11} closed
-2019-04-27 21:52:11.436 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 21:52:11.437 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 21:52:11.436 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 21:52:11.437 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 21:52:12.109 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 21:52:12.110 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 21:52:12.125 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
@@ -155,12 +155,12 @@
 2019-04-27 21:52:12.922 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
 2019-04-27 21:52:13.158 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 21:52:13.226 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 21:52:13.226 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.867 seconds (JVM running for 769.103)
+2019-04-27 21:52:13.226 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.867 seconds (JVM running for 769.103)
 2019-04-27 21:52:13.229 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 21:52:14.642 [Thread-112] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 21:52:14.648 [Thread-112] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-12} closed
-2019-04-27 21:52:14.997 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 21:52:14.997 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 21:52:14.997 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 21:52:14.997 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 21:52:15.629 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 21:52:15.629 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 21:52:15.647 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18ms. Found 0 repository interfaces.
@@ -178,10 +178,10 @@
 2019-04-27 21:52:16.564 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
 2019-04-27 21:52:16.784 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 21:52:16.831 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 21:52:16.832 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.896 seconds (JVM running for 772.709)
+2019-04-27 21:52:16.832 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.896 seconds (JVM running for 772.709)
 2019-04-27 21:52:16.836 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
-2019-04-27 21:52:24.185 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 7920 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 21:52:24.190 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 21:52:24.185 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 7920 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 21:52:24.190 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 21:52:24.325 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 2019-04-27 21:52:24.326 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 2019-04-27 21:52:26.051 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
@@ -203,9 +203,9 @@
 2019-04-27 21:52:30.743 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 21:52:30.891 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2019-04-27 21:52:30.928 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 21:52:30.934 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 7.817 seconds (JVM running for 9.255)
-2019-04-27 21:58:11.069 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 21:58:11.083 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 21:52:30.934 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 7.817 seconds (JVM running for 9.255)
+2019-04-27 21:58:11.069 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 21:58:11.083 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 21:58:11.193 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 2019-04-27 21:58:11.194 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 2019-04-27 21:58:12.571 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
@@ -227,11 +227,11 @@
 2019-04-27 21:58:16.760 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 21:58:16.914 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2019-04-27 21:58:16.954 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 21:58:16.959 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 6.883 seconds (JVM running for 8.22)
+2019-04-27 21:58:16.959 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 6.883 seconds (JVM running for 8.22)
 2019-04-27 22:01:54.324 [Thread-20] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 22:01:54.332 [Thread-20] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
-2019-04-27 22:01:54.684 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 22:01:54.684 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 22:01:54.684 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 22:01:54.684 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 22:01:55.313 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 22:01:55.313 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 22:01:55.325 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
@@ -251,12 +251,12 @@
 2019-04-27 22:01:56.428 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 22:01:56.480 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2019-04-27 22:01:56.492 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 22:01:56.493 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.908 seconds (JVM running for 227.754)
+2019-04-27 22:01:56.493 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.908 seconds (JVM running for 227.754)
 2019-04-27 22:01:56.497 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 22:02:06.290 [Thread-28] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 22:02:06.298 [Thread-28] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
-2019-04-27 22:02:06.671 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 22:02:06.672 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 22:02:06.671 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 22:02:06.672 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 22:02:07.265 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 22:02:07.265 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 22:02:07.280 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 repository interfaces.
@@ -276,12 +276,12 @@
 2019-04-27 22:02:08.374 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 22:02:08.469 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2019-04-27 22:02:08.482 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 22:02:08.483 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.89 seconds (JVM running for 239.744)
+2019-04-27 22:02:08.483 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.89 seconds (JVM running for 239.744)
 2019-04-27 22:02:08.486 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 22:02:13.982 [Thread-34] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 22:02:13.985 [Thread-34] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-3} closed
-2019-04-27 22:02:14.307 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 22:02:14.308 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 22:02:14.307 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 22:02:14.308 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 22:02:14.849 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 22:02:14.849 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 22:02:14.863 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13ms. Found 0 repository interfaces.
@@ -301,12 +301,12 @@
 2019-04-27 22:02:15.819 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 22:02:15.863 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2019-04-27 22:02:15.877 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 22:02:15.877 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.643 seconds (JVM running for 247.139)
+2019-04-27 22:02:15.877 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.643 seconds (JVM running for 247.139)
 2019-04-27 22:02:15.880 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 22:02:22.566 [Thread-40] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 22:02:22.574 [Thread-40] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-4} closed
-2019-04-27 22:02:22.936 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 22:02:22.936 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 22:02:22.936 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 22:02:22.936 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 22:02:23.425 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 22:02:23.425 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 22:02:23.436 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
@@ -326,12 +326,12 @@
 2019-04-27 22:02:24.394 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 22:02:24.441 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2019-04-27 22:02:24.453 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 22:02:24.454 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.605 seconds (JVM running for 255.716)
+2019-04-27 22:02:24.454 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.605 seconds (JVM running for 255.716)
 2019-04-27 22:02:24.457 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 22:02:36.429 [Thread-46] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 22:02:36.444 [Thread-46] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-5} closed
-2019-04-27 22:02:36.793 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 22:02:36.794 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 22:02:36.793 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 22:02:36.794 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 22:02:37.358 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 22:02:37.359 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 22:02:37.369 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10ms. Found 0 repository interfaces.
@@ -351,12 +351,12 @@
 2019-04-27 22:02:38.402 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 22:02:38.474 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2019-04-27 22:02:38.490 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 22:02:38.491 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.765 seconds (JVM running for 269.752)
+2019-04-27 22:02:38.491 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.765 seconds (JVM running for 269.752)
 2019-04-27 22:02:38.496 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 22:02:48.156 [Thread-52] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 22:02:48.160 [Thread-52] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-6} closed
-2019-04-27 22:02:48.479 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 22:02:48.480 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 22:02:48.479 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 22:02:48.480 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 22:02:49.042 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 22:02:49.042 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 22:02:49.059 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
@@ -376,12 +376,12 @@
 2019-04-27 22:02:50.082 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 22:02:50.127 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2019-04-27 22:02:50.138 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 22:02:50.139 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.734 seconds (JVM running for 281.401)
+2019-04-27 22:02:50.139 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.734 seconds (JVM running for 281.401)
 2019-04-27 22:02:50.142 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 22:02:52.601 [Thread-58] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 22:02:52.622 [Thread-58] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-7} closed
-2019-04-27 22:02:52.957 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 22:02:52.958 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 22:02:52.957 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 22:02:52.958 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 22:02:53.553 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 22:02:53.553 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 22:02:53.566 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
@@ -401,12 +401,12 @@
 2019-04-27 22:02:54.672 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 22:02:54.721 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2019-04-27 22:02:54.733 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 22:02:54.734 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.85 seconds (JVM running for 285.995)
+2019-04-27 22:02:54.734 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.85 seconds (JVM running for 285.995)
 2019-04-27 22:02:54.737 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 22:02:58.246 [Thread-64] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 22:02:58.255 [Thread-64] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-8} closed
-2019-04-27 22:02:58.569 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-2019-04-27 22:02:58.570 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+2019-04-27 22:02:58.569 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 1248 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+2019-04-27 22:02:58.570 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 2019-04-27 22:02:59.133 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
 2019-04-27 22:02:59.134 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-04-27 22:02:59.144 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10ms. Found 0 repository interfaces.
@@ -426,7 +426,7 @@
 2019-04-27 22:03:00.159 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
 2019-04-27 22:03:00.201 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 2019-04-27 22:03:00.212 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2019-04-27 22:03:00.213 [restartedMain] INFO  com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.711 seconds (JVM running for 291.475)
+2019-04-27 22:03:00.213 [restartedMain] INFO  com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.711 seconds (JVM running for 291.475)
 2019-04-27 22:03:00.216 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
 2019-04-27 22:03:36.141 [Thread-70] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-27 22:03:36.149 [Thread-70] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-9} closed

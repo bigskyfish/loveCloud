@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.floatCloud</groupId>
-	<artifactId>loveLearn</artifactId>
+	<artifactId>loveCloud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>loveCloud</name>
 	<description>Demo project for Spring Boot</description>

@@ -1,6 +1,6 @@
-[2019-04-27 21:41:16.224] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-[2019-04-27 21:41:16.224] [restartedMain] [DEBUG] com.floatCloud.loveLearn.LoveLearnApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
-[2019-04-27 21:41:16.225] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+[2019-04-27 21:41:16.224] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+[2019-04-27 21:41:16.224] [restartedMain] [DEBUG] com.floatCloud.loveCloud.LoveLearnApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[2019-04-27 21:41:16.225] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 [2019-04-27 21:41:17.116] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol port=8080)
 [2019-04-27 21:41:17.119] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol bindOnInit=false)
 [2019-04-27 21:41:17.120] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint bindOnInit=false)
@@ -153,14 +153,14 @@ org.springframework.boot.devtools.restart.classloader.RestartClassLoader@530213
 [2019-04-27 21:41:17.945] [restartedMain] [DEBUG] io.lettuce.core.resource.DefaultClientResources - LatencyUtils/HdrUtils are not available, metrics are disabled
 [2019-04-27 21:41:18.002] [restartedMain] [DEBUG] reactor.core.publisher.Hooks - Enabling stacktrace debugging via onOperatorDebug
 [2019-04-27 21:41:18.184] [http-nio-8080-Acceptor-0] [DEBUG] org.apache.tomcat.util.threads.LimitLatch - Counting up[http-nio-8080-Acceptor-0] latch=0
-[2019-04-27 21:41:18.187] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 2.06 seconds (JVM running for 114.063)
+[2019-04-27 21:41:18.187] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 2.06 seconds (JVM running for 114.063)
 [2019-04-27 21:42:11.114] [Thread-40] [DEBUG] io.lettuce.core.RedisClient - Initiate shutdown (100, 100, MILLISECONDS)
 [2019-04-27 21:42:11.117] [Thread-40] [DEBUG] io.lettuce.core.resource.DefaultClientResources - Initiate shutdown (0, 2, SECONDS)
 [2019-04-27 21:42:11.117] [Thread-40] [DEBUG] i.l.core.resource.DefaultEventLoopGroupProvider - Initiate shutdown (0, 2, SECONDS)
 [2019-04-27 21:42:11.128] [Thread-40] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
-[2019-04-27 21:42:11.638] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-[2019-04-27 21:42:11.639] [restartedMain] [DEBUG] com.floatCloud.loveLearn.LoveLearnApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
-[2019-04-27 21:42:11.639] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+[2019-04-27 21:42:11.638] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+[2019-04-27 21:42:11.639] [restartedMain] [DEBUG] com.floatCloud.loveCloud.LoveLearnApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[2019-04-27 21:42:11.639] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 [2019-04-27 21:42:12.479] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol port=8080)
 [2019-04-27 21:42:12.481] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol bindOnInit=false)
 [2019-04-27 21:42:12.482] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint bindOnInit=false)
@@ -313,14 +313,14 @@ org.springframework.boot.devtools.restart.classloader.RestartClassLoader@12a558e
 [2019-04-27 21:42:13.426] [restartedMain] [DEBUG] io.lettuce.core.resource.DefaultClientResources - LatencyUtils/HdrUtils are not available, metrics are disabled
 [2019-04-27 21:42:13.483] [restartedMain] [DEBUG] reactor.core.publisher.Hooks - Enabling stacktrace debugging via onOperatorDebug
 [2019-04-27 21:42:13.630] [http-nio-8080-Acceptor-0] [DEBUG] org.apache.tomcat.util.threads.LimitLatch - Counting up[http-nio-8080-Acceptor-0] latch=0
-[2019-04-27 21:42:13.633] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 2.237 seconds (JVM running for 169.509)
+[2019-04-27 21:42:13.633] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 2.237 seconds (JVM running for 169.509)
 [2019-04-27 21:42:17.111] [Thread-46] [DEBUG] io.lettuce.core.RedisClient - Initiate shutdown (100, 100, MILLISECONDS)
 [2019-04-27 21:42:17.113] [Thread-46] [DEBUG] io.lettuce.core.resource.DefaultClientResources - Initiate shutdown (0, 2, SECONDS)
 [2019-04-27 21:42:17.113] [Thread-46] [DEBUG] i.l.core.resource.DefaultEventLoopGroupProvider - Initiate shutdown (0, 2, SECONDS)
 [2019-04-27 21:42:17.125] [Thread-46] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-3} closed
-[2019-04-27 21:42:17.462] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-[2019-04-27 21:42:17.463] [restartedMain] [DEBUG] com.floatCloud.loveLearn.LoveLearnApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
-[2019-04-27 21:42:17.463] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+[2019-04-27 21:42:17.462] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+[2019-04-27 21:42:17.463] [restartedMain] [DEBUG] com.floatCloud.loveCloud.LoveLearnApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[2019-04-27 21:42:17.463] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 [2019-04-27 21:42:18.180] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol port=8080)
 [2019-04-27 21:42:18.181] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol bindOnInit=false)
 [2019-04-27 21:42:18.181] [restartedMain] [DEBUG] org.apache.tomcat.util.IntrospectionUtils - IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint bindOnInit=false)
@@ -473,13 +473,13 @@ org.springframework.boot.devtools.restart.classloader.RestartClassLoader@150ff8c
 [2019-04-27 21:42:18.869] [restartedMain] [DEBUG] io.lettuce.core.resource.DefaultClientResources - LatencyUtils/HdrUtils are not available, metrics are disabled
 [2019-04-27 21:42:18.941] [restartedMain] [DEBUG] reactor.core.publisher.Hooks - Enabling stacktrace debugging via onOperatorDebug
 [2019-04-27 21:42:19.059] [http-nio-8080-Acceptor-0] [DEBUG] org.apache.tomcat.util.threads.LimitLatch - Counting up[http-nio-8080-Acceptor-0] latch=0
-[2019-04-27 21:42:19.063] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.678 seconds (JVM running for 174.939)
+[2019-04-27 21:42:19.063] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.678 seconds (JVM running for 174.939)
 [2019-04-27 21:42:27.724] [Thread-52] [DEBUG] io.lettuce.core.RedisClient - Initiate shutdown (100, 100, MILLISECONDS)
 [2019-04-27 21:42:27.727] [Thread-52] [DEBUG] io.lettuce.core.resource.DefaultClientResources - Initiate shutdown (0, 2, SECONDS)
 [2019-04-27 21:42:27.727] [Thread-52] [DEBUG] i.l.core.resource.DefaultEventLoopGroupProvider - Initiate shutdown (0, 2, SECONDS)
 [2019-04-27 21:42:27.737] [Thread-52] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-4} closed
-[2019-04-27 21:42:28.072] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
-[2019-04-27 21:42:28.072] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - No active profile set, falling back to default profiles: default
+[2019-04-27 21:42:28.072] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - Starting LoveLearnApplication on DESKTOP-ECN1MFC with PID 9660 (C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn\target\classes started by BaBy_Float in C:\java_Baby_Yun\Idea_GitHub_WorkSpace\lovelearn\loveLearn)
+[2019-04-27 21:42:28.072] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - No active profile set, falling back to default profiles: default
 [2019-04-27 21:42:28.895] [restartedMain] [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
 [2019-04-27 21:42:28.897] [restartedMain] [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
 [2019-04-27 21:42:28.945] [restartedMain] [INFO ] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
@@ -487,5 +487,5 @@ org.springframework.boot.devtools.restart.classloader.RestartClassLoader@150ff8c
 [2019-04-27 21:42:28.998] [restartedMain] [INFO ] c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
 [2019-04-27 21:42:29.132] [restartedMain] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-5} inited
 [2019-04-27 21:42:29.346] [restartedMain] [WARN ] org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-[2019-04-27 21:42:29.617] [restartedMain] [INFO ] com.floatCloud.loveLearn.LoveLearnApplication - Started LoveLearnApplication in 1.628 seconds (JVM running for 185.494)
+[2019-04-27 21:42:29.617] [restartedMain] [INFO ] com.floatCloud.loveCloud.LoveLearnApplication - Started LoveLearnApplication in 1.628 seconds (JVM running for 185.494)
 [2019-04-27 21:46:12.680] [Thread-58] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-5} closed

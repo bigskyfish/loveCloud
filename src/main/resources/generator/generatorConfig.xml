@@ -36,7 +36,7 @@
         也可以使用“MAVEN”来自动生成，这样生成的代码会在target/generatord-source目录下
         -->
         <!--<javaModelGenerator targetPackage="com.forezp.entity" targetProject="MAVEN">-->
-        <javaModelGenerator targetPackage="com.floatCloud.loveLearn.sysOa.dao.domain" targetProject="./src/main/java">
+        <javaModelGenerator targetPackage="com.floatCloud.loveCloud.sysOa.dao.domain" targetProject="./src/main/java">
             <property name="enableSubPackages" value="true"/>
             <!-- 从数据库返回的值被清理前后的空格  -->
             <property name="trimStrings" value="true" />
@@ -48,7 +48,7 @@
         </sqlMapGenerator>
 
         <!-- 对应的Mapper接口类文件 -->
-        <javaClientGenerator type="XMLMAPPER" targetPackage="com.floatCloud.loveLearn.sysOa.dao.mapper" targetProject="./src/main/java">
+        <javaClientGenerator type="XMLMAPPER" targetPackage="com.floatCloud.loveCloud.sysOa.dao.mapper" targetProject="./src/main/java">
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 
