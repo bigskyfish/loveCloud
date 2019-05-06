@@ -14,13 +14,13 @@ import lombok.extern.slf4j.Slf4j;
 @SpringBootApplication
 @MapperScan(basePackages = "com.floatCloud.loveCloud.sysOa.dao")
 @Slf4j
-public class LoveLearnApplication {
+public class LoveCloudApplication {
 
-	private static Logger logger = LoggerFactory.getLogger(LoveLearnApplication.class);
+	private static Logger logger = LoggerFactory.getLogger(LoveCloudApplication.class);
 
 	public static void main(String[] args) {
-		SpringApplication.run(LoveLearnApplication.class, args);
-		logger.info("《《《《《《 LoveLearn started up successfully at {} {} 》》》》》》", LocalDate.now(), LocalTime.now());
+		SpringApplication.run(LoveCloudApplication.class, args);
+		logger.info("《《《《《《 LoveCloud started up successfully at {} {} 》》》》》》", LocalDate.now(), LocalTime.now());
 	}
 
 }
